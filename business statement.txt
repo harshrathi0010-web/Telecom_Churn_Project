@@ -1,0 +1,9 @@
+Business Problem Statement
+A telecom company with 7,043 customers is losing 26.5% of its customer base to churn — translating to $139,130 in monthly recurring revenue at risk (30.5% of total revenue).
+Initial data shows churn is not random — it's concentrated:
+
+Month-to-month contract customers churn at 42.7%, vs just 2.8% for two-year contracts
+New customers (0-12 months tenure) churn at 47.7%, dropping to 9.5% for customers past 4 years
+A specific high-risk segment — month-to-month customers paying over $70/month (2,097 customers, ~30% of the base) — churns at 52.7%, double the company average
+
+Objective: Identify the highest-risk customer segments, quantify the revenue impact, and recommend a targeted retention strategy (e.g., contract upgrade incentives for the high-risk segment) — rather than a generic "reduce churn" recommendation.
