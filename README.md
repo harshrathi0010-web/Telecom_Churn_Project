@@ -98,10 +98,4 @@ Telecom companies lose massive revenue when customers leave. This analysis answe
 
 ---
 
-## 📁 Project Structure
-├── data/telecom_cleaned.csv
-├── notebooks/telecom_with_ML.ipynb
-├── sql/churn_queries.sql
-├── dashboard/telecom_dashboard.pbix
-├── images/eda_charts.png
-└── README.md
+
